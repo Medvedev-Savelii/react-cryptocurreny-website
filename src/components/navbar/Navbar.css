@@ -32,7 +32,9 @@
 	font-weight: 600;
 	color: #333;
 }
-
+.nav-menu a:hover{
+	color: var(--primary);
+}
 .colors {
 	color: var(--primary);
 }
